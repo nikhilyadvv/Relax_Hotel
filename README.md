@@ -6,9 +6,10 @@ Simple hotel booking website with content management system. Users can book room
 
 `HTML`
 `CSS`
+`BOOTSTRAP`
 `JAVASCRIPT`
 `PHP`
-`BOOTSTRAP`
+`MySql`
 
 ## Requirements:
 
